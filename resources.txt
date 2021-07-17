@@ -1,0 +1,10 @@
+searches : https://www.google.com/search?q=hoe+to+use+google+translate+api+with+expressjs&oq=hoe+to+use+google+translate+api+with+expressjs&aqs=chrome..69i57j33i10i160.20081j0j7&sourceid=chrome&ie=UTF-8
+vid blog: https://codingshiksha.com/javascript/node-js-express-speech-translator-live-web-app-using-google-translate-api-tutorial-for-beginners-2020/
+repo md : https://github.com/matheuss/google-translate-api
+doc : https://www.npmjs.com/package/google-translate-open-api
+video : https://www.youtube.com/watch?v=QHQOrdFsxkE
+google api thru acc : https://www.nodejsera.com/how-to-use-google-translator-with-nodejs.html
+
+learn about body parser, 
+make the project ,
+learn and use proxy

@@ -101,7 +101,11 @@ textarea {
     overflow: auto;
   }
   .buttons {
+    flex-direction: column;
     flex-wrap: wrap;
+  }
+  .clear {
+    margin: auto;
   }
   .buttons .first {
     width: 66%;

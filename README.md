@@ -11,7 +11,9 @@ A Translator App - [Visit App](https://sanket-translator-app.herokuapp.com/)
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![English to Hindi][product-screenshot]](https://example.com)
+[![English to German][product-screenshot]](https://example.com)
+[![English to Spanish][product-screenshot]](https://example.com)
 
 An Express app that translates between languages. The Google translate Api is used for the translation which auto corrects the text and also detects the input language.
 

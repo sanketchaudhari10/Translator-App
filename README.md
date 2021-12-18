@@ -27,7 +27,7 @@ An Express app that translates between languages. The Google translate Api is us
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
 
 - [Express](https://expressjs.com/)
 - [Nodejs](https://nodejs.org/en/)
